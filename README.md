@@ -7,12 +7,15 @@
   <P>Volto ao mercado pra o que há de mais atual</P>
 <P>Minha Primeira exxperiênçia com Kotlin me deixou animado<P>
       😎 🙂 🙂 😎
-  </html>
-<figure>
-  <img src="https://ibb.co/vcfQYJ8" alt="Print da TelaAPP">
+  
+  <figure>
+  <img src="https://i.ibb.co/GdGtTVj/Santder-Img.jpg" alt="Print da TelaAPP">
   <figcaption>Print da Tela</figcaption>
-</figure>
+</figure>  
+  
+  </html>
+
   
   <p> Fiz algumas Modificações , como o efeito do card no Layout
     e Design Personalizado</p>
-  ![Tela APP](https://i.ibb.co/GdGtTVj/Santder-Img.jpg)
+  ![Tela APP]("https://i.ibb.co/GdGtTVj/Santder-Img.jpg")
