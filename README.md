@@ -16,6 +16,4 @@
   </html>
 
   
-  <p> Fiz algumas Modificações , como o efeito do card no Layout
-    e Design Personalizado</p>
-  ![Tela APP]("https://i.ibb.co/GdGtTVj/Santder-Img.jpg")
+ 
