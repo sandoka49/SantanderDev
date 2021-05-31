@@ -9,7 +9,7 @@
       😎 🙂 🙂 😎
   </html>
 <figure>
-  <img src="https://www.dropbox.com/home/Github_Sandoval?preview=SantderImg.JPG" alt="Print da TelaAPP">
+  <img src="https://ibb.co/vcfQYJ8" alt="Print da TelaAPP">
   <figcaption>Print da Tela</figcaption>
 </figure>
   
