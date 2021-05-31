@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderWeek</string>
+    <string name="txt_saldo_disponivel">Balance Avaliable</string>
+    <string name="txt_saldo_limite">Balance Limit</string>
+    <string name="txt_ver_extrato">View Extract</string>
+    <string name="txt_pagar">Pay</string>
+    <string name="txt_transferir">Transfer</string>
+    <string name="txt_recarregar">Recharge</string>
+    <string name="txt_cartao_final">Final Card</string>
+    <string name="txt_usuario">User</string>
+    <string name="txt_conta">Account</string>
+    <string name="txt_agencia">Agency</string>
+    <string name="txt_saldo">Balance</string>
+    <string name="txt_limite">Limit</string>
+    <string name="txt_cartao_numero">Card Number</string>
+</resources>

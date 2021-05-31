@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderWeek</string>
+    <string name="txt_saldo_disponivel">Saldo disponível</string>
+    <string name="txt_saldo_limite">Saldo - Limite</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cartao_final">Cartão Final</string>
+    <string name="txt_usuario">Olá,Davi Diaz</string>
+    <string name="txt_conta">761430-1</string>
+    <string name="txt_agencia">7461</string>
+    <string name="txt_saldo">R$ 3.444,00</string>
+    <string name="txt_limite">R$ 8.000,00</string>
+    <string name="txt_cartao_numero">4525</string>
+</resources>
